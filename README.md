@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <h2> Hello, welcome to <Ariana/> World! </h2> 👩🏻‍💻
+</div>
 
-<!--
-**aclj20/aclj20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+```yaml
+name: Ariana Lopez
+location: Lima, Peru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education:
+  - Computer Science Student at UNI
+
+fields_of_interest:
+  - Web Development
+  - Cybersecurity
+  - Quantum Computing
+
+competitions:
+  - Hackathon competitor
+  - CTF player
+
+```
+
