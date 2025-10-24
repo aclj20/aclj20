@@ -1,8 +1,8 @@
 <div align="center">
-  <h2> Hello, welcome to <Ariana/> World! </h2> 👩🏻‍💻
+  <h2> Hello, welcome to &lt;Ariana/&gt; World! </h2> 
 </div>
 
-### About Me
+### 👩🏻‍💻 About Me 
 
 ```yaml
 name: Ariana Lopez
