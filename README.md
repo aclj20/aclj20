@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi, welcome to <Ariana/> World! </h2> 
+  <h2> Hi, welcome to <code>&lt;Ariana/&gt;</code> world! </h2> 
 </div>
 
 ### 👩🏻‍💻 About Me 
